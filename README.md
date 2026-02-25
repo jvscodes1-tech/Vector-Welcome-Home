@@ -6,6 +6,7 @@ REQUIREMENTS
 
 - Python 3.6+ must be installed and available in PATH
 - Windows PC with Python access (Linux/Mac also supported)
+- Download the zip file as well.
 
 QUICK START
 
