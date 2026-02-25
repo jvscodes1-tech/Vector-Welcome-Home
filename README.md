@@ -19,6 +19,8 @@ How to set permanent MAC:
 
 Once set, note your phone's MAC address from your router or run: ipconfig /all on your PC
 
+Download the Vector-Welcome-home.Zip firectly from github then extract its contents inside it is all you need to continue the following steps :)
+
 1. Run the installer:
    install.bat
    
